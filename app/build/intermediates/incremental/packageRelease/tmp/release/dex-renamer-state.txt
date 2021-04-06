@@ -1,0 +1,4 @@
+#Tue Mar 09 22:14:23 EET 2021
+base.0=C\:\\Users\\mgorb\\Desktop\\Programs\\MobileDevelopment\\Calculator\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
