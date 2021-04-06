@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2691c52-9fbf-43d1-9dce-a835a78ee11c" name="Default Changelist" comment="APK">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculator" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\mgorb\Desktop\key.jks" />
+    <option name="KEY_ALIAS" value="key0" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1p9cJTA1Dhhp2KS8MUkRZh07a8U" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ApkExportedModule" value="Calculator.app" />
+    <property name="ExportApk.ApkPath" value="C:\Users\mgorb\Desktop\Programs\MobileDevelopment\Calculator\app" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewC:/Users/mgorb/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatTextView.java_SELECTED" value="AppCompatTextView" />
+    <property name="android-custom-viewC:/Users/mgorb/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0/b42a5159ef2c670d26ce08246ec5aaf8f92e5a42/material-1.3.0-sources.jar!/com/google/android/material/button/MaterialButton.java_SELECTED" value="MaterialButton" />
+    <property name="android-custom-viewC:/Users/mgorb/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/mgorb/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="multi-representation-previewC:/Users/mgorb/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatTextView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/mgorb/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.3.0/b42a5159ef2c670d26ce08246ec5aaf8f92e5a42/material-1.3.0-sources.jar!/com/google/android/material/button/MaterialButton.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/mgorb/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/mgorb/AppData/Local/Android/Sdk/sources/android-30/android/widget/TextView.java_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Calculator.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2691c52-9fbf-43d1-9dce-a835a78ee11c" name="Default Changelist" comment="" />
+      <created>1614598674382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614598674382</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Stable.&#10;Added '≈'">
+      <created>1615276620056</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615276620057</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Improved overflowing control">
+      <created>1615279190633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615279190633</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed overwriting not working properly">
+      <created>1615279794445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615279794445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fixed result couldn't be reused when hitting dot button.">
+      <created>1615319785792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615319785792</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Fixed using dot on result not applying dot to actual number (stable)">
+      <created>1615320839923</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615320839923</updated>
+    </task>
+    <task id="LOCAL-00006" summary="APK">
+      <created>1615320878528</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615320878528</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Stable.&#10;Added '≈'" />
+    <MESSAGE value="Improved overflowing control" />
+    <MESSAGE value="Fixed overwriting not working properly" />
+    <MESSAGE value="Fixed result couldn't be reused when hitting dot button." />
+    <MESSAGE value="Fixed using dot on result not applying dot to actual number (stable)" />
+    <MESSAGE value="APK" />
+    <option name="LAST_COMMIT_MESSAGE" value="APK" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog" timestamp="1614601112495">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="614" y="207" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1614601112495" />
+    <state x="565" y="164" key="AndroidProcessChooserDialog" timestamp="1615200026637">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="565" y="164" key="AndroidProcessChooserDialog/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615200026637" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1615818341108">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615204599035" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1615818341108" />
+    <state width="975" height="369" key="GridCell.Tab.0.bottom" timestamp="1615320695221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615282713141" />
+    <state width="975" height="369" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615320695221" />
+    <state width="975" height="369" key="GridCell.Tab.0.center" timestamp="1615320695221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615282713140" />
+    <state width="975" height="369" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1615320695221" />
+    <state width="975" height="369" key="GridCell.Tab.0.left" timestamp="1615320695221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615282713140" />
+    <state width="975" height="369" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1615320695221" />
+    <state width="975" height="369" key="GridCell.Tab.0.right" timestamp="1615320695221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615282713140" />
+    <state width="975" height="369" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1615320695221" />
+    <state width="975" height="369" key="GridCell.Tab.1.bottom" timestamp="1615320695222">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="974" height="373" key="GridCell.Tab.1.bottom/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615275012710" />
+    <state width="975" height="369" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615320695222" />
+    <state width="975" height="369" key="GridCell.Tab.1.center" timestamp="1615320695221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="974" height="373" key="GridCell.Tab.1.center/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615275012710" />
+    <state width="975" height="369" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1615320695221" />
+    <state width="975" height="369" key="GridCell.Tab.1.left" timestamp="1615320695221">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="974" height="373" key="GridCell.Tab.1.left/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615275012709" />
+    <state width="975" height="369" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1615320695221" />
+    <state width="975" height="369" key="GridCell.Tab.1.right" timestamp="1615320695222">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="974" height="373" key="GridCell.Tab.1.right/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615275012710" />
+    <state width="975" height="369" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1615320695222" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1615154734111">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615154734111" />
+    <state width="498" height="447" key="SwitcherDM" timestamp="1614599174723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="498" height="447" key="SwitcherDM/0.0.1536.834@0.0.1536.834" timestamp="1614599174722" />
+    <state x="110" y="150" key="Vcs.Push.Dialog.v2" timestamp="1615320881690">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="110" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1615320881690" />
+    <state x="80" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1615237411970">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="80" y="149" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615237411970" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1615196765596">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615196765596" />
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1614600375399" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1615817995741">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-3.-1080.1536.834@0.0.1536.834" timestamp="1615205179948" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1615817995741" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/calculator/MainActivity.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
